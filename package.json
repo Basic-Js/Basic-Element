@@ -1,0 +1,27 @@
+{
+  "name": "basic-element",
+  "version": "1.0.0",
+  "description": "components for basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Basic-Js/Basic-Element.git"
+  },
+  "keywords": [
+    "Basic",
+    "Components",
+    "Basic-Components",
+    "basic-components",
+    "Basic-components",
+    "basic-Components"
+  ],
+  "author": "arsole676",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Basic-Js/Basic-Element/issues"
+  },
+  "homepage": "https://github.com/Basic-Js/Basic-Element#readme"
+}
